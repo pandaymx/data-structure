@@ -1,3 +1,4 @@
+package 插入排序;
 import java.util.Random;
 
 public class Main {
